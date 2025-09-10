@@ -27,7 +27,7 @@
 	left: 100vw;
 	height: 70vh;
 	width: 6vw;
-	background: radial-gradient(orange 50%, darkorange);
+	background: radial-gradient(purple 50%, indigo);
 	border: 5px solid black;
 }
 .message {
@@ -79,6 +79,6 @@
 	}
 	.pipe_sprite{
 		width: 14vw;
-		background: radial-gradient(orange 50%, darkorange);
+		background: radial-gradient(purple 50%, indigo);
 	}
 }
